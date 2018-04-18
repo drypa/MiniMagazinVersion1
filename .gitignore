@@ -1,0 +1,15 @@
+/MiniMagazinVersion1.sln.dotsettings
+/packages
+/Out
+/Source/Magazine.Client.ConsoleApp/obj
+/Source/Magazine.Client.ConsoleApp/bin
+/Source/Magazine.Client.Wpf/obj
+/Source/Magazine.Client.Wpf/bin
+/Source/Magazine.DAL.Core/obj
+/Source/Magazine.DAL.Core/bin
+/Source/Magazine.DAL.TestRepositories/obj
+/Source/Magazine.DAL.TestRepositories/bin
+/Source/Magazine.WCF.Host/obj
+/Source/Magazine.WCF.Host/bin
+/Source/Magazine.WCF.Service/obj
+/Source/Magazine.WCF.Service/bin
